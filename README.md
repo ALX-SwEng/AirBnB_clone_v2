@@ -144,13 +144,9 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 0x02. AirBnB clone - MySQL
 ==========================
+-   By Guillaume
 
 #### In a nutshell…
-
-*   **Auto QA review:** 0.0/191 mandatory
-*   **Altogether:**  **0.0%**
-    *   Mandatory: 0.0%
-    *   Optional: no optional tasks
 
 Background Context
 ------------------
