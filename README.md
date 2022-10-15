@@ -256,6 +256,8 @@ More Info
 
 ![](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)
 
+![](<iframe width="731" height="411" src="https://www.youtube.com/embed/fb2zxES7ROU" title="HBNB Storage abstraction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+	
 ### Comments for your SQL file:
 
     $ cat my_script.sql
