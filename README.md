@@ -692,7 +692,7 @@ Update `User`: (`models/user.py`)
     *   class attribute `last_name`
         *   represents a column containing a string (128 characters)
         *   can be null
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ echo 'create User email="gui@hbtn.io" password="guipwd" first_name="Guillaume" last_name="Snow"' | HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_pwd HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_dev_db HBNB_TYPE_STORAGE=db ./console.py 
     (hbnb) 4f3f4b42-a4c3-4c20-a492-efff10d00c0b
     (hbnb) 
@@ -712,7 +712,7 @@ Update `User`: (`models/user.py`)
     first_name: Guillaume
      last_name: Snow
     guillaume@ubuntu:~/AirBnB_v2$
-    
+```    
 
 **Repo:**
 
@@ -799,8 +799,7 @@ Update `City`: (`models/city.py`)
             latitude: 37.774
            longitude: -122.431
     guillaume@ubuntu:~/AirBnB_v2$ 
-    
-
+   
 **Repo:**
 
 *   GitHub repository: `AirBnB_clone_v2`
