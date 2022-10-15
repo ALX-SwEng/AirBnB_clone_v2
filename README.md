@@ -781,7 +781,7 @@ Update `City`: (`models/city.py`)
 
 *   Add or replace in the class `City`:
     *   class attribute `places` must represent a relationship with the class `Place`. If the `City` object is deleted, all linked `Place` objects must be automatically deleted. Also, the reference from a `Place` object to his `City` should be named `cities`
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ echo 'create Place city_id="4b457e66-c7c8-4f63-910f-fd91c3b7140b" user_id="4f3f4b42-a4c3-4c20-a492-efff10d00c0b" name="Lovely_place" number_rooms=3 number_bathrooms=1 max_guest=6 price_by_night=120 latitude=37.773972 longitude=-122.431297' | HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_pwd HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_dev_db HBNB_TYPE_STORAGE=db ./console.py 
     (hbnb) ed72aa02-3286-4891-acbc-9d9fc80a1103
     (hbnb) 
@@ -807,11 +807,13 @@ Update `City`: (`models/city.py`)
             latitude: 37.774
            longitude: -122.431
     guillaume@ubuntu:~/AirBnB_v2$ 
-   
+```
+
 **Repo:**
 
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/place.py, models/user.py, models/city.py`
+
 
 ### 9\. DBStorage - Review [mandatory]
 
@@ -842,7 +844,7 @@ Update `Place`: (`models/place.py`)
 
 *   for `DBStorage`: class attribute `reviews` must represent a relationship with the class `Review`. If the `Place` object is deleted, all linked `Review` objects must be automatically deleted. Also, the reference from a `Review` object to his `Place` should be named `place`
 *   for `FileStorage`: getter attribute `reviews` that returns the list of `Review` instances with `place_id` equals to the current `Place.id` => It will be the `FileStorage` relationship between `Place` and `Review`
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ 
     guillaume@ubuntu:~/AirBnB_v2$ echo 'create User email="bob@hbtn.io" password="bobpwd" first_name="Bob" last_name="Dylan"' | HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_pwd HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_dev_db HBNB_TYPE_STORAGE=db ./console.py 
     (hbnb) d93638d9-8233-4124-8f4e-17786592908b
@@ -866,7 +868,8 @@ Update `Place`: (`models/place.py`)
       place_id: ed72aa02-3286-4891-acbc-9d9fc80a1103
        user_id: d93638d9-8233-4124-8f4e-17786592908b
     guillaume@ubuntu:~/AirBnB_v2$ 
-	
+```
+
 ### 10\. DBStorage - Amenity... and BOOM! [mandatory]
 
 Update `Amenity`: (`models/amenity.py`)
@@ -906,7 +909,7 @@ In our system, we don’t want to duplicate amenities (for example, having 10000
 To make this link working, we will create a third table called `place_amenity` that will create these links.
 
 And you are good, you have a new engine!
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ cat main_place_amenities.py 
     #!/usr/bin/python3
     """ Test link Many-To-Many Place <> Amenity
@@ -1023,7 +1026,7 @@ And you are good, you have a new engine!
       place_id: db549ae1-4500-4d0c-9b50-4b4978ed229e
     amenity_id: b80aec52-d0c9-420a-8471-3254572954b6
     guillaume@ubuntu:~/AirBnB_v2$ 
-    
+   ```
 
 **Repo:**
 
