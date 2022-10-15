@@ -270,11 +270,7 @@ More Info
 Tasks
 -----
 
-### 0\. Fork me if you can!
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 0\. Fork me if you can! [mandatory]
 
 In the industry, you will work on an existing codebase 90% of the time. Your first thoughts upon looking at it might include:
 
@@ -299,58 +295,7 @@ If you are the owner of this repository, please create a new repository named `A
 
 *   GitHub repository: `AirBnB_clone_v2`
 
-Done?! Help
-
-×
-
-#### Students who are done with "0. Fork me if you can!"
-
-Check your code
-
-×
-
-#### Correction of "0. Fork me if you can!"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 0\. Fork me if you can!
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 1\. Bug free!
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 1\. Bug free! [mandatory]
 
 Do you remember the `unittest` module?
 
@@ -387,58 +332,7 @@ For example, “you want to validate that the `create State name="California"` c
 
 *   GitHub repository: `AirBnB_clone_v2`
 
-Done?! Help
-
-×
-
-#### Students who are done with "1. Bug free!"
-
-Check your code
-
-×
-
-#### Correction of "1. Bug free!"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-QA Review
-
-×
-
-#### 1\. Bug free!
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 2\. Console improvements
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 2\. Console improvements [mandatory]
 
 Update the `def do_create(self, arg):` function of your command interpreter (`console.py`) to allow for object creation with given parameters:
 
@@ -478,58 +372,7 @@ Also, this new feature will be tested here only with `FileStorage` engine.
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `console.py, models/, tests/`
 
-Done?! Help
-
-×
-
-#### Students who are done with "2. Console improvements"
-
-Check your code
-
-×
-
-#### Correction of "2. Console improvements"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 2\. Console improvements
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 3\. MySQL setup development
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 3\. MySQL setup development [mandatory]
 
 Write a script that prepares a MySQL server for the project:
 
@@ -559,58 +402,7 @@ Write a script that prepares a MySQL server for the project:
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `setup_mysql_dev.sql`
 
-Done?! Help
-
-×
-
-#### Students who are done with "3. MySQL setup development"
-
-Check your code
-
-×
-
-#### Correction of "3. MySQL setup development"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 3\. MySQL setup development
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 4\. MySQL setup test
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 4\. MySQL setup test [mandatory]
 
 Write a script that prepares a MySQL server for the project:
 
@@ -640,58 +432,7 @@ Write a script that prepares a MySQL server for the project:
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `setup_mysql_test.sql`
 
-Done?! Help
-
-×
-
-#### Students who are done with "4. MySQL setup test"
-
-Check your code
-
-×
-
-#### Correction of "4. MySQL setup test"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 4\. MySQL setup test
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 5\. Delete object
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 5\. Delete object [mandatory]
 
 Update `FileStorage`: (`models/engine/file_storage.py`)
 
@@ -767,58 +508,7 @@ Update `FileStorage`: (`models/engine/file_storage.py`)
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/engine/file_storage.py`
 
-Done?! Help
-
-×
-
-#### Students who are done with "5. Delete object"
-
-Check your code
-
-×
-
-#### Correction of "5. Delete object"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 5\. Delete object
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 6\. DBStorage - States and Cities
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 6\. DBStorage - States and Cities [mandatory]
 
 SQLAlchemy will be your best friend!
 
@@ -982,56 +672,7 @@ City creation:
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/base_model.py, models/city.py, models/state.py, models/engine/db_storage.py, models/__init__.py`
 
-Done?! Help
-
-×
-
-#### Students who are done with "6. DBStorage - States and Cities"
-
-Check your code
-
-×
-
-#### Correction of "6. DBStorage - States and Cities"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-QA Review
-
-×
-
-#### 6\. DBStorage - States and Cities
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 7\. DBStorage - User
-
-mandatory
+### 7\. DBStorage - User [mandatory]
 
 Score: 0.0% (Checks completed: 0.0%)
 
@@ -1080,58 +721,7 @@ Update `User`: (`models/user.py`)
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/user.py`
 
-Done?! Help
-
-×
-
-#### Students who are done with "7. DBStorage - User"
-
-Check your code
-
-×
-
-#### Correction of "7. DBStorage - User"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-QA Review
-
-×
-
-#### 7\. DBStorage - User
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 8\. DBStorage - Place
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 8\. DBStorage - Place [mandatory]
 
 Update `Place`: (`models/place.py`)
 
@@ -1218,58 +808,7 @@ Update `City`: (`models/city.py`)
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/place.py, models/user.py, models/city.py`
 
-Done?! Help
-
-×
-
-#### Students who are done with "8. DBStorage - Place"
-
-Check your code
-
-×
-
-#### Correction of "8. DBStorage - Place"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-QA Review
-
-×
-
-#### 8\. DBStorage - Place
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 9\. DBStorage - Review
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 9\. DBStorage - Review [mandatory]
 
 Update `Review`: (`models/review.py`)
 
@@ -1324,63 +863,7 @@ Update `Place`: (`models/place.py`)
     guillaume@ubuntu:~/AirBnB_v2$ 
     
 
-**Repo:**
-
-*   GitHub repository: `AirBnB_clone_v2`
-*   File: `models/review.py, models/user.py, models/place.py`
-
-Done?! Help
-
-×
-
-#### Students who are done with "9. DBStorage - Review"
-
-Check your code
-
-×
-
-#### Correction of "9. DBStorage - Review"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-QA Review
-
-×
-
-#### 9\. DBStorage - Review
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-### 10\. DBStorage - Amenity... and BOOM!
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
+### 10\. DBStorage - Amenity... and BOOM! [mandatory]
 
 Update `Amenity`: (`models/amenity.py`)
 
@@ -1542,127 +1025,3 @@ And you are good, you have a new engine!
 
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/amenity.py, models/place.py`
-
-Done?! Help
-
-×
-
-#### Students who are done with "10. DBStorage - Amenity... and BOOM!"
-
-Check your code
-
-×
-
-#### Correction of "10. DBStorage - Amenity... and BOOM!"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-QA Review
-
-×
-
-#### 10\. DBStorage - Amenity... and BOOM!
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
-×
-
-#### Recommended Sandbox
-
-Copyright © 2022 ALX, All rights reserved.
-
-×
-
-#### Markdown Guide
-
-#### Emphasis
-
-\*\***bold**\*\*
-\*_italics_\*
-~~strikethrough~~
-
-#### Headers
-
-\# Big header
-## Medium header
-### Small header
-#### Tiny header
-
-#### Lists
-
-\* Generic list item
-\* Generic list item
-\* Generic list item
-
-1. Numbered list item
-2. Numbered list item
-3. Numbered list item
-
-#### Links
-
-\[Text to display\](http://www.example.com)
-
-#### Quotes
-
-\> This is a quote.
-> It can span multiple lines!
-
-#### Images
-
-CSS style available: `width, height, opacity`
-
-!\[\](http://www.example.com/image.jpg)
-!\[\](http://www.example.com/image.jpg | width: 200px)
-!\[\](http://www.example.com/image.jpg | height: 124px | width: 80px | opacity: 0.6)
-
-#### Tables
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| John     | Doe      | Male     |
-| Mary     | Smith    | Female   |
-
-_Or without aligning the columns..._
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| John | Doe | Male |
-| Mary | Smith | Female |
-
-#### Displaying code
-
-\`var example = "hello!";\`
-
-_Or spanning multiple lines..._
-
-\`\`\`
-var example = "hello!";
-alert(example);
-\`\`\`
-
-(function(i,s,o,g,r,a,m){i\['GoogleAnalyticsObject'\]=r;i\[r\]=i\[r\]||function(){ (i\[r\].q=i\[r\].q||\[\]).push(arguments)},i\[r\].l=1\*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)\[0\];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-67152800-9', 'auto', { userId: '30516' } ); ga('send', 'pageview'); $(document).ready(function() { ga(function(tracker) { var clientId = tracker.get('clientId'); $('.ga-client-id').val(clientId); }); });
