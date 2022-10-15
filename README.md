@@ -256,7 +256,7 @@ More Info
 
 ![](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)
 
-[![HBNB Storage abstraction](https://www.aydentownsley.com/img/hbnb.png)](https://www.youtube.com/embed/fb2zxES7ROU)
+[![Watch the video - HBNB Storage abstraction](https://www.aydentownsley.com/img/hbnb.png)](https://www.youtube.com/embed/fb2zxES7ROU)
 	
 ### Comments for your SQL file:
 
