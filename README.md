@@ -295,6 +295,7 @@ If you are the owner of this repository, please create a new repository named `A
 
 *   GitHub repository: `AirBnB_clone_v2`
 
+
 ### 1\. Bug free! [mandatory]
 
 Do you remember the `unittest` module?
@@ -331,6 +332,7 @@ For example, “you want to validate that the `create State name="California"` c
 **Repo:**
 
 *   GitHub repository: `AirBnB_clone_v2`
+
 
 ### 2\. Console improvements [mandatory]
 
@@ -372,6 +374,7 @@ Also, this new feature will be tested here only with `FileStorage` engine.
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `console.py, models/, tests/`
 
+	
 ### 3\. MySQL setup development [mandatory]
 
 Write a script that prepares a MySQL server for the project:
@@ -402,6 +405,7 @@ Write a script that prepares a MySQL server for the project:
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `setup_mysql_dev.sql`
 
+
 ### 4\. MySQL setup test [mandatory]
 
 Write a script that prepares a MySQL server for the project:
@@ -431,6 +435,7 @@ Write a script that prepares a MySQL server for the project:
 
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `setup_mysql_test.sql`
+
 
 ### 5\. Delete object [mandatory]
 
@@ -507,6 +512,7 @@ Update `FileStorage`: (`models/engine/file_storage.py`)
 
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/engine/file_storage.py`
+
 
 ### 6\. DBStorage - States and Cities [mandatory]
 
@@ -672,6 +678,7 @@ City creation:
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/base_model.py, models/city.py, models/state.py, models/engine/db_storage.py, models/__init__.py`
 
+
 ### 7\. DBStorage - User [mandatory]
 
 Update `User`: (`models/user.py`)
@@ -718,6 +725,7 @@ Update `User`: (`models/user.py`)
 
 *   GitHub repository: `AirBnB_clone_v2`
 *   File: `models/user.py`
+
 
 ### 8\. DBStorage - Place [mandatory]
 
