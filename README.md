@@ -385,7 +385,7 @@ Write a script that prepares a MySQL server for the project:
 *   `hbnb_dev` should have all privileges on the database `hbnb_dev_db` (and **only this database**)
 *   `hbnb_dev` should have `SELECT` privilege on the database `performance_schema` (and **only this database**)
 *   If the database `hbnb_dev_db` or the user `hbnb_dev` already exists, your script should not fail
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ cat setup_mysql_dev.sql | mysql -hlocalhost -uroot -p
     Enter password: 
     guillaume@ubuntu:~/AirBnB_v2$ echo "SHOW DATABASES;" | mysql -uhbnb_dev -p | grep hbnb_dev_db
@@ -398,7 +398,7 @@ Write a script that prepares a MySQL server for the project:
     GRANT SELECT ON `performance_schema`.* TO 'hbnb_dev'@'localhost'
     GRANT ALL PRIVILEGES ON `hbnb_dev_db`.* TO 'hbnb_dev'@'localhost'
     guillaume@ubuntu:~/AirBnB_v2$ 
-    
+```    
 
 **Repo:**
 
@@ -416,7 +416,7 @@ Write a script that prepares a MySQL server for the project:
 *   `hbnb_test` should have all privileges on the database `hbnb_test_db` (and **only this database**)
 *   `hbnb_test` should have `SELECT` privilege on the database `performance_schema` (and **only this database**)
 *   If the database `hbnb_test_db` or the user `hbnb_test` already exists, your script should not fail
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ cat setup_mysql_test.sql | mysql -hlocalhost -uroot -p
     Enter password: 
     guillaume@ubuntu:~/AirBnB_v2$ echo "SHOW DATABASES;" | mysql -uhbnb_test -p | grep hbnb_test_db
@@ -429,7 +429,7 @@ Write a script that prepares a MySQL server for the project:
     GRANT SELECT ON `performance_schema`.* TO 'hbnb_test'@'localhost'
     GRANT ALL PRIVILEGES ON `hbnb_test_db`.* TO 'hbnb_test'@'localhost'
     guillaume@ubuntu:~/AirBnB_v2$ 
-    
+```    
 
 **Repo:**
 
@@ -443,7 +443,7 @@ Update `FileStorage`: (`models/engine/file_storage.py`)
 
 *   Add a new public instance method: `def delete(self, obj=None):` to delete `obj` from `__objects` if it’s inside - if `obj` is equal to `None`, the method should not do anything
 *   Update the prototype of `def all(self)` to `def all(self, cls=None)` - that returns the list of objects of one type of class. Example below with `State` - it’s an optional filtering
-
+```
     guillaume@ubuntu:~/AirBnB_v2$ cat main_delete.py
     #!/usr/bin/python3
     """ Test delete feature
@@ -506,7 +506,7 @@ Update `FileStorage`: (`models/engine/file_storage.py`)
     All States: 1
     [State] (37705d25-8903-4318-9303-6d6d336a22c1) {'name': 'Nevada', 'created_at': datetime.datetime(2017, 11, 10, 1, 13, 34, 619133), 'id': '37705d25-8903-4318-9303-6d6d336a22c1'}
     guillaume@ubuntu:~/AirBnB_v2$ 
-    
+```    
 
 **Repo:**
 
